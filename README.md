@@ -1,4 +1,10 @@
-### Hi there 👋
+- 🏠 MyPortofolioSite: https://yukimi-pino.netlify.app/  
+- 📒 Blog: https://hackteck.hatenablog.com/  
+- 📚 Zenn: https://zenn.dev/denham?tab=scraps  
+
+<a href="https://twitter.com/denham95173179" target="_blank" rel="noreferrer">
+<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/denham95173179?style=social">
+</a>  
 
 <!--
 **yud0uhu/yud0uhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
