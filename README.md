@@ -3,7 +3,7 @@
 - 📚 Zenn: https://zenn.dev/denham?tab=scraps  
 
 <a href="https://twitter.com/denham95173179" target="_blank" rel="noreferrer">
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/denham95173179?style=social">
+<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/yud0uhu?style=social">
 </a>  
 
 <!--
