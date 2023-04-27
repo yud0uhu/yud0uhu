@@ -1,6 +1,6 @@
 - 🏠 MyPortofolioSite: https://yukimi-pino.netlify.app/  
 - 📒 Blog: https://hackteck.hatenablog.com/  
-- 📚 Zenn: https://zenn.dev/denham?tab=scraps  
+- 📚 Zenn: https://zenn.dev/denham 
 
 <a href="https://twitter.com/yud0uhu" target="_blank" rel="noreferrer">
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/yud0uhu?style=social">
