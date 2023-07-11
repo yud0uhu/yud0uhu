@@ -2,6 +2,7 @@
 - Bluesky: <a href="http://yud0uhu.bsky.social">@yud0uhu.bsky.social</a>
 - Misskey: <a href="http://yud0uhuo@misskey.io">@yud0uhuo@misskey.io</a>
 - Twitter: <a href="https://twitter.com/yud0uhu">@yud0uhu</a>
+- Threads: <a href="https://www.threads.net/@neruneruneruneu">@neruneruneruneu</a>
 
 ### I’m currently working on
 - 🏠 MyPortofolioSite: https://planned-construction-site.vercel.app/  
