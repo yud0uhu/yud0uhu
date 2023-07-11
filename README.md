@@ -1,10 +1,12 @@
-- 🏠 MyPortofolioSite: https://yukimi-pino.netlify.app/  
+### Contact Me
+- Bluesky: <a href="http://yud0uhu.bsky.social">@yud0uhu.bsky.social</a>
+- Misskey: <a href="http://yud0uhuo@misskey.io">@yud0uhuo@misskey.io</a>
+- Twitter: <a href="https://twitter.com/yud0uhu">@yud0uhu</a>
+
+### I’m currently working on
+- 🏠 MyPortofolioSite: https://planned-construction-site.vercel.app/  
 - 📒 Blog: https://hackteck.hatenablog.com/  
 - 📚 Zenn: https://zenn.dev/denham 
-
-<a href="https://twitter.com/yud0uhu" target="_blank" rel="noreferrer">
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/yud0uhu?style=social">
-</a>  
 
 <!--
 **yud0uhu/yud0uhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
