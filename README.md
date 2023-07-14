@@ -24,6 +24,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img
+  src="https://github.com/<username>/<repository-name>/blob/<branch-name>/images/stat.svg"
+  alt="Alternative Text"
+/>
+Example:
+<img
+  src="https://github.com/avinal/avinal/blob/main/images/stat.svg"
+  alt="Avinal WakaTime Activity"
+/>
 [![](https://raw.githubusercontent.com/yud0uhu/yud0uhu/main/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/yud0uhu/yud0uhu/main/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/yud0uhu/yud0uhu/main/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
